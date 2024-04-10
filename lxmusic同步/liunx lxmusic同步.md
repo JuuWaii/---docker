@@ -17,5 +17,7 @@ docker run -d \
 
 
 ```
+
+其中连接码默认为 mypassword123
 ---
 原文链接：https://blog.csdn.net/wbsu2004/article/details/129871452
